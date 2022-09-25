@@ -1,0 +1,58 @@
+periods:
+  - Period 1A
+  - Period 2A
+  - Period 3A (including lunch)
+  - Seminar
+  - Period 4A
+  - Period 1B
+  - Period 2B
+  - Period 3B (including lunch)
+  - Seminar
+  - Period 4B
+
+weekend:
+  name: Weekend
+  schedule: ~
+
+schedule-a:
+  name: A Day
+  schedule:
+    - 8:30 Period 1A
+    - 9:50 Free
+    - 9:55 Period 2A
+    - 11:10 Free
+    - 11:15 Period 3A (including lunch)
+    - 13:00 Free
+    - 13:05 Seminar
+    - 13:40 Free
+    - 13:45 Period 4A
+    - 15:00 Free
+
+
+schedule-b:
+  name: B Day
+  schedule:
+    - 8:30 Period 1B
+    - 9:50 Free
+    - 9:55 Period 2B
+    - 11:10 Free
+    - 11:15 Period 3B (including lunch)
+    - 13:00 Free
+    - 13:05 Seminar
+    - 13:40 Free
+    - 13:45 Period 4B
+    - 15:00 Free
+
+schedule-modified:
+  name: Modified Schedule
+  schedule:
+    - 8:30 Period 1
+    - 9:40 Free
+    - 9:45 Period 2
+    - 10:55 Free
+    - 11:00 Period 3 (including lunch)
+    - 12:40 Free
+    - 12:45 Period 4
+    - 13:55 Free
+    - 14:00 Seminar/Event
+    - 15:00 Free
